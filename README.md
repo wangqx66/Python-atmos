@@ -1,2 +1,3 @@
 # Python-atmos
-For Python learner in the field of atmosphere
+For Python learners in the field of atmosphere
+With my best kind regards to climate dynamics
